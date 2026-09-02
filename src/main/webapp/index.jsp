@@ -1468,7 +1468,7 @@
 
 <div class="offer-bar">
     <span>LIMITED TIME:</span>
-    Get 20% off your first order — Free shipping on orders over $50
+    Get 1000000000000% off your first order — Free shipping on orders over $5
 </div>
 
 <!-- =========================
@@ -1495,7 +1495,7 @@
             <input
                 type="search"
                 id="searchInput"
-                placeholder="Search for products, brands and more..."
+                placeholder="Search for products, brands and more everything is fucking free........"
             >
             <button id="clearSearch">
                 <i class="fas fa-xmark"></i>
@@ -1520,7 +1520,7 @@
                 </div>
 
                 <div class="account-text">
-                    <strong>Hello, Shopper</strong>
+                    <strong>Welcome, Guys</strong>
                     <span>My Account</span>
                 </div>
             </div>

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 ```
-<title>VasuMart — Modern Shopping</title>
+<title>NexusShop — Modern Shopping</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1468,7 +1468,7 @@
 
 <div class="offer-bar">
     <span>LIMITED TIME:</span>
-    Get 1000000000000% off your first order — Free shipping on orders over $5
+    Get 20% off your first order — Free shipping on orders over $50
 </div>
 
 <!-- =========================
@@ -1495,7 +1495,7 @@
             <input
                 type="search"
                 id="searchInput"
-                placeholder="Search for products, brands and more everything is fucking free........"
+                placeholder="Search for products, brands and more..."
             >
             <button id="clearSearch">
                 <i class="fas fa-xmark"></i>
@@ -1520,7 +1520,7 @@
                 </div>
 
                 <div class="account-text">
-                    <strong>Welcome, Guys</strong>
+                    <strong>Hello, Shopper</strong>
                     <span>My Account</span>
                 </div>
             </div>

@@ -683,7 +683,7 @@
 <!-- Header -->
 <header>
   <div class="container header-main">
-    <a href="#" class="logo" aria-label="NexusShop Home">
+    <a href="#" class="logo" aria-label="Vasu Shop Home">
       <div class="logo-icon" aria-hidden="true">
         <i class="fas fa-bag-shopping"></i>
       </div>

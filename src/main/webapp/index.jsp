@@ -687,7 +687,7 @@
       <div class="logo-icon" aria-hidden="true">
         <i class="fas fa-bag-shopping"></i>
       </div>
-      Nexus<span>Shop</span>
+      Vasu<span>Mart</span>
     </a>
 
     <div class="search-box" role="search">

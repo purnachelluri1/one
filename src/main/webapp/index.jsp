@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<title>NexusShop — Modern Shopping</title>
+<title>Vasu Mart — Modern Shopping</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -677,7 +677,7 @@
 
 <!-- Offer Bar -->
 <div class="offer-bar">
-  <span>LIMITED TIME:</span> Get 20% off your first order — Free shipping on orders over $50
+  <span>UN-LIMITED TIME:</span> Get 20% off your first order — Free shipping on orders over $50
 </div>
 
 <!-- Header -->
@@ -694,7 +694,7 @@
       <input
         type="search"
         id="searchInput"
-        placeholder="Search for products, brands and more..."
+        placeholder="Search for girls, toya and more..."
         aria-label="Search products"
         autocomplete="off"
       />
@@ -736,10 +736,10 @@
       <div class="hero-content">
         <div class="hero-label">
           <i class="fas fa-sparkles" aria-hidden="true"></i>
-          NEW SEASON COLLECTION
+          Vasu Collection
         </div>
         <h1>
-          Everything you love, <span>all in one place.</span>
+          Everyone you Fuck, <span>all in one place.</span>
         </h1>
         <p>
           Discover premium technology, fashion, accessories and everyday essentials at prices you'll love.
